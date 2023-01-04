@@ -1,8 +1,8 @@
 Hi, I’m Jared! 👋
 
-I'm a front-end software engineer currently based at Microsoft. I love building beautiful user experiences, optimizing web performance, and fiddling with flexbox.
+I'm a front-end engineer at Microsoft. I'm passionate about building beautiful user experiences, optimizing web performance, and fiddling with flexbox.
 
-Feel free to shoot me a message [@jaredgrimesey](https://twitter.com/jaredgrimesey)!
+I tend to open-source all of my work, so feel free to check it out!
 
 <!---
 jlgrimes/jlgrimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
